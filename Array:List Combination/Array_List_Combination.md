@@ -1,5 +1,7 @@
 Let there be two arrays of strings:
+
 String[] Array1
+
 String[] Array2
 
 Write a method that will take any element of these two arrays and find all characters in common with any element of the other array.
